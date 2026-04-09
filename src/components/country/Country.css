@@ -1,0 +1,43 @@
+.countryDivStyle{
+    display: flex;
+    gap: 15px;
+    margin: 12px;
+    align-items: center;
+    border: 1px solid cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.flagStyle{
+    width: 90px;
+    border: none;
+
+}
+.visitedBtnStyle{
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px auto;
+    background: darkslateblue;
+}
+.countryVisited{
+    /* background-color: aquamarine; */
+    /* border: 3px solid aquamarine; */
+    /* box-shadow: 10px 10px 30px aquamarine; */
+    /* box-shadow: 0 0 10px 5px rgba(9, 243, 255, 0.3); */
+        box-shadow: 5px 5px 30px 10px rgba(9, 243, 255, 0.3);
+
+}
+
+
+.spanTagStyle{      
+    font-weight: 800;
+    font-size: x-large;
+    
+}
+
+.pTagStyle{      
+    font-weight: 700;
+    
+    
+}
